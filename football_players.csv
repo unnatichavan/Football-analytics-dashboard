@@ -1,0 +1,361 @@
+player_id,player_name,team,position,season,age,appearances,minutes_played,goals,assists,shots,shots_on_target,passes,pass_accuracy,tackles,interceptions,yellow_cards,red_cards,rating,nationality
+1,Leon Müller,Coastal Rovers,GK,2021-22,32,13,992,0,0,2,2,390,0.95,4,4,3,0,8.83,English
+2,Ivan Garcia,Coastal Rovers,MID,2021-22,35,34,2379,11,4,32,25,2439,0.89,15,3,2,1,6.36,French
+3,Bruno Ferrari,Westfield Rangers,DEF,2021-22,30,24,1953,0,0,4,4,1183,0.9,47,30,5,0,9.04,Indian
+4,Hassan Martínez,Harbour Town FC,MID,2021-22,35,34,2600,4,7,31,4,2362,0.84,23,13,1,0,7.73,Spanish
+5,Yusuf Johansson,Coastal Rovers,DEF,2021-22,34,37,2686,0,1,6,5,1840,0.87,51,45,4,0,5.91,Nigerian
+6,Yusuf Martínez,Westfield Rangers,FWD,2021-22,26,13,1034,20,5,57,24,437,0.86,4,2,0,2,9.41,Portuguese
+7,Yusuf Andersen,Ironbridge United,MID,2021-22,32,30,2459,1,8,20,13,2018,0.68,20,9,3,2,7.06,Japanese
+8,Rafael Costa,Red Valley SC,GK,2021-22,23,25,1976,0,0,2,2,742,0.81,4,2,3,2,5.67,Japanese
+9,Oliver Jensen,Ironbridge United,GK,2021-22,26,22,1798,2,2,3,3,664,0.72,0,0,3,1,6.85,Colombian
+10,Ethan Brown,Northern Wolves,MID,2021-22,27,14,1009,0,2,16,6,967,0.78,34,13,3,1,8.16,Spanish
+11,Kai Rossi,Westfield Rangers,MID,2021-22,36,25,2023,7,5,36,26,1699,0.83,46,30,7,2,8.99,Colombian
+12,Lucas Martínez,Emerald City FC,FWD,2021-22,33,13,1036,11,2,67,63,429,0.78,11,9,7,2,5.25,Colombian
+13,Liam Weber,Northern Wolves,FWD,2021-22,26,12,987,10,9,33,16,410,0.89,1,2,6,0,7.7,French
+14,Diego Ferrari,Northern Wolves,DEF,2021-22,30,28,1825,0,7,5,0,1380,0.85,24,13,8,1,5.05,Nigerian
+15,Ivan Costa,Coastal Rovers,MID,2021-22,21,28,2288,8,3,35,13,2033,0.8,18,17,5,0,7.02,Nigerian
+16,Kofi Smith,Northern Wolves,FWD,2021-22,33,33,2880,13,6,80,39,1144,0.68,6,5,5,0,6.31,Czech
+17,Andre Rossi,Emerald City FC,FWD,2021-22,28,15,1286,0,2,25,12,500,0.83,7,4,7,2,5.26,French
+18,Arjun Nakamura,Golden Gate Athletic,DEF,2021-22,27,30,2506,2,3,8,4,1511,0.9,39,21,2,1,8.83,Nigerian
+19,Kofi Reyes,Westfield Rangers,FWD,2021-22,32,20,1511,12,6,63,29,677,0.73,12,7,5,2,7.02,English
+20,Noah Andersen,Emerald City FC,FWD,2021-22,29,21,1528,12,6,49,23,741,0.94,15,14,8,2,9.06,Spanish
+21,Declan Ferrari,Coastal Rovers,FWD,2021-22,18,24,1781,10,1,71,54,900,0.77,4,3,3,2,9.43,Polish
+22,Leon Silva,Red Valley SC,MID,2021-22,22,14,1247,0,1,17,5,957,0.95,27,5,2,1,8.57,Brazilian
+23,Theo Kowalski,Westfield Rangers,DEF,2021-22,20,28,2152,0,3,6,0,1416,0.74,45,17,8,2,8.21,Argentinian
+24,Noah Weber,Golden Gate Athletic,FWD,2021-22,31,28,2127,4,8,58,46,962,0.83,6,4,8,1,8.05,German
+25,Matteo Silva,Harbour Town FC,DEF,2021-22,17,24,1856,0,5,1,0,1113,0.73,65,33,6,1,6.79,Nigerian
+26,Andre Yamamoto,Red Valley SC,DEF,2021-22,21,13,1028,0,3,6,1,596,0.89,61,39,6,1,5.62,Nigerian
+27,Matteo Rossi,Ironbridge United,FWD,2021-22,28,13,928,13,3,80,52,450,0.74,2,2,4,0,7.04,Portuguese
+28,Arjun Jensen,Northern Wolves,FWD,2021-22,30,36,3098,10,0,60,42,1233,0.71,8,0,5,0,9.09,German
+29,Noah Smith,Harbour Town FC,MID,2021-22,27,18,1209,8,7,22,15,1201,0.73,28,33,0,1,8.56,Italian
+30,Riku Rossi,Harbour Town FC,MID,2021-22,34,26,2186,8,11,24,21,1800,0.68,31,29,3,1,9.3,French
+31,Pedro Smith,Emerald City FC,DEF,2021-22,35,31,2442,3,0,5,4,1522,0.7,30,12,2,1,6.41,Polish
+32,Oliver Okafor,Golden Gate Athletic,GK,2021-22,19,11,823,0,1,0,0,308,0.72,2,2,0,0,5.5,Swedish
+33,Andre Kim,Emerald City FC,FWD,2021-22,36,10,748,12,4,44,12,371,0.88,3,2,2,0,6.09,Portuguese
+34,Tomas Johansson,Golden Gate Athletic,MID,2021-22,29,19,1378,1,12,23,6,1279,0.77,29,18,8,1,5.62,Indian
+35,Tomas Okafor,Harbour Town FC,DEF,2021-22,29,11,895,1,4,7,2,469,0.7,52,20,0,2,5.02,Portuguese
+36,Kai Ferrari,Northern Wolves,DEF,2021-22,18,33,2794,5,3,8,8,1650,0.92,30,32,7,2,6.63,Japanese
+37,Theo Patel,Ironbridge United,FWD,2021-22,29,37,2790,17,8,74,34,1314,0.72,11,8,1,2,5.09,Turkish
+38,Diego Kim,Emerald City FC,MID,2021-22,31,19,1467,0,13,34,28,1341,0.82,25,16,2,2,5.78,Polish
+39,Kai Diallo,Red Valley SC,MID,2021-22,28,29,2329,0,6,19,11,2070,0.66,27,16,8,1,7.8,Argentinian
+40,Liam Diallo,Westfield Rangers,MID,2021-22,18,25,1981,2,1,26,10,1670,0.63,33,28,5,2,6.14,American
+41,Kai Costa,Emerald City FC,FWD,2021-22,27,34,2576,5,6,61,35,1223,0.87,2,1,6,2,5.06,South Korean
+42,Theo Santos,Ironbridge United,GK,2021-22,35,24,1851,0,0,0,0,727,0.75,2,2,3,2,5.8,American
+43,Kai Smith,Westfield Rangers,MID,2021-22,31,29,2151,0,0,20,4,2031,0.79,35,0,4,2,7.56,Polish
+44,Declan Okafor,Coastal Rovers,MID,2021-22,19,22,1718,2,2,19,3,1604,0.87,22,23,8,1,8.24,Brazilian
+45,Matteo Fernandez,Northern Wolves,DEF,2021-22,36,36,2904,2,8,9,9,1775,0.82,36,18,0,0,6.7,English
+46,Andre Bakker,Ironbridge United,MID,2021-22,36,20,1601,6,8,11,8,1430,0.7,13,8,5,2,6.25,Nigerian
+47,Arjun Özdemir,Red Valley SC,FWD,2021-22,20,23,1686,10,3,59,20,813,0.78,12,7,6,1,5.5,American
+48,Pedro Tanaka,Golden Gate Athletic,MID,2021-22,33,16,1262,5,6,27,10,1163,0.94,16,5,3,0,6.37,Danish
+49,Emre Patel,Coastal Rovers,GK,2021-22,25,16,1080,0,0,0,0,470,0.7,1,2,4,1,8.31,Danish
+50,Bruno Müller,Westfield Rangers,DEF,2021-22,28,26,2142,0,3,4,0,1357,0.93,61,34,6,2,6.19,Danish
+51,Pedro Jensen,Red Valley SC,FWD,2021-22,25,12,895,7,7,65,17,450,0.9,15,11,2,2,6.1,Egyptian
+52,Ivan Rossi,Coastal Rovers,FWD,2021-22,32,16,1255,7,5,48,20,616,0.79,10,5,4,1,5.57,French
+53,Pedro Rossi,Westfield Rangers,FWD,2021-22,36,13,1069,19,12,74,39,420,0.7,13,11,4,0,6.45,Colombian
+54,Kofi Dubois,Westfield Rangers,DEF,2021-22,32,35,2886,3,3,6,5,1644,0.89,4,0,1,2,9.14,Italian
+55,Ivan Smith,Ironbridge United,DEF,2021-22,35,14,1039,0,5,3,2,700,0.88,56,35,5,1,7.88,Czech
+56,Arjun Weber,Emerald City FC,FWD,2021-22,35,22,1756,4,4,43,19,771,0.67,7,5,4,0,6.44,Brazilian
+57,Emre Andersen,Red Valley SC,FWD,2021-22,18,35,2618,19,3,48,21,1239,0.73,9,7,4,2,5.18,Brazilian
+58,James Weber,Red Valley SC,FWD,2021-22,22,33,2408,14,4,57,21,1199,0.74,15,9,2,2,8.24,Indian
+59,Diego Costa,Northern Wolves,MID,2021-22,31,25,2015,6,9,26,14,1731,0.77,25,17,3,0,7.95,Colombian
+60,Diego Smith,Golden Gate Athletic,DEF,2021-22,28,28,2346,2,0,10,3,1340,0.7,30,18,7,2,5.62,Polish
+61,Arjun Tanaka,Harbour Town FC,FWD,2021-22,18,17,1413,14,6,70,68,532,0.93,0,0,4,0,6.44,American
+62,Declan Costa,Emerald City FC,MID,2021-22,18,27,2320,6,4,30,19,1890,0.82,21,17,3,2,6.45,Spanish
+63,Liam Kim,Golden Gate Athletic,MID,2021-22,27,33,2801,8,6,22,20,2286,0.92,17,12,2,0,8.44,German
+64,Arjun Ferrari,Northern Wolves,GK,2021-22,29,30,2416,2,0,4,3,910,0.71,3,2,5,0,8.67,Portuguese
+65,Kofi Fernandez,Golden Gate Athletic,FWD,2021-22,20,16,1371,8,5,42,23,603,0.67,7,2,7,0,9.49,Spanish
+66,Carlos Nakamura,Ironbridge United,GK,2021-22,20,20,1509,0,1,4,4,634,0.64,2,2,8,0,8.98,German
+67,Kofi Bakker,Emerald City FC,MID,2021-22,19,17,1325,0,0,25,4,1163,0.79,31,20,3,0,9.5,Italian
+68,Oliver Patel,Westfield Rangers,MID,2021-22,28,37,2948,11,8,39,20,2641,0.76,30,22,2,2,8.54,Colombian
+69,Rafael Özdemir,Northern Wolves,FWD,2021-22,17,19,1391,7,10,70,22,657,0.78,7,4,6,1,5.43,Swedish
+70,Sven Costa,Red Valley SC,FWD,2021-22,28,34,2659,14,1,71,27,1168,0.88,7,4,0,2,5.76,German
+71,Finn Novak,Northern Wolves,FWD,2021-22,26,33,2600,0,1,46,21,1196,0.75,14,9,7,0,7.27,Portuguese
+72,Ethan Jensen,Westfield Rangers,MID,2021-22,26,31,2481,12,0,16,15,2171,0.66,29,15,1,0,8.7,Portuguese
+73,Arjun Nakamura,Golden Gate Athletic,FWD,2021-22,30,14,1133,18,6,60,25,493,0.91,15,0,4,1,5.99,Portuguese
+74,Nils Müller,Harbour Town FC,DEF,2021-22,27,15,1173,0,0,1,1,838,0.85,36,19,4,2,7.19,Colombian
+75,Lucas Ferrari,Ironbridge United,MID,2021-22,31,26,2065,1,6,8,3,1827,0.71,28,8,5,1,8.04,Danish
+76,Emre Andersen,Ironbridge United,MID,2021-22,32,25,2079,5,0,22,18,1778,0.91,37,31,5,2,5.27,Turkish
+77,Matteo Özdemir,Golden Gate Athletic,FWD,2021-22,35,36,3228,24,0,60,24,1228,0.69,6,5,1,0,8.87,Japanese
+78,Kofi Özdemir,Harbour Town FC,DEF,2021-22,32,13,996,0,0,11,4,682,0.69,38,17,2,2,5.48,Portuguese
+79,Hassan Jensen,Harbour Town FC,FWD,2021-22,27,12,851,0,0,70,68,459,0.79,12,4,6,0,6.46,French
+80,Yusuf Yamamoto,Emerald City FC,FWD,2021-22,26,21,1619,15,7,57,49,699,0.78,0,0,8,2,7.63,South Korean
+81,Oliver Garcia,Golden Gate Athletic,DEF,2021-22,21,21,1683,2,3,11,9,1014,0.74,35,29,7,2,9.17,Egyptian
+82,Tomas Nguyen,Emerald City FC,MID,2021-22,28,27,1916,4,0,32,32,1854,0.84,19,8,5,2,6.7,Egyptian
+83,Noah Reyes,Coastal Rovers,MID,2021-22,19,19,1685,3,10,24,21,1310,0.87,24,10,1,2,7.69,Egyptian
+84,Sven Yamamoto,Harbour Town FC,GK,2021-22,35,35,2904,2,1,3,2,1035,0.62,1,3,8,2,5.12,South Korean
+85,Diego Tanaka,Coastal Rovers,MID,2021-22,33,25,2149,0,0,26,12,1761,0.73,25,27,0,2,6.22,Argentinian
+86,Hassan Yamamoto,Harbour Town FC,DEF,2021-22,19,25,1945,0,0,5,1,1193,0.9,28,10,8,2,6.69,Spanish
+87,Tomas Okafor,Ironbridge United,FWD,2021-22,32,34,2287,16,8,62,45,1160,0.76,0,0,8,0,8.58,Portuguese
+88,Diego Nakamura,Northern Wolves,DEF,2021-22,19,13,996,2,3,12,2,664,0.77,52,23,0,1,6.7,Polish
+89,Emre Martínez,Coastal Rovers,MID,2021-22,31,28,2021,6,10,28,27,1954,0.68,10,3,1,1,6.82,Japanese
+90,Yusuf Smith,Red Valley SC,FWD,2021-22,18,36,2954,23,7,80,80,1254,0.76,10,7,7,0,9.47,Polish
+91,Ivan Silva,Harbour Town FC,MID,2021-22,26,24,2160,6,3,33,20,1669,0.93,15,10,8,0,5.7,Turkish
+92,Marco Santos,Red Valley SC,DEF,2021-22,30,33,2578,0,1,3,3,1683,0.94,49,25,4,1,9.34,American
+93,Ethan Kowalski,Westfield Rangers,DEF,2021-22,31,18,1560,3,4,3,3,930,0.9,24,14,8,2,7.46,Portuguese
+94,Matteo Kim,Harbour Town FC,MID,2021-22,25,20,1629,11,11,11,11,1386,0.75,11,7,4,0,5.35,English
+95,Ethan Hassan,Harbour Town FC,MID,2021-22,35,12,980,1,3,33,3,861,0.69,40,29,0,1,9.21,South Korean
+96,Oliver Dubois,Red Valley SC,FWD,2021-22,32,24,1751,19,4,66,63,823,0.81,9,7,0,1,5.91,Indian
+97,Hassan Yamamoto,Coastal Rovers,FWD,2021-22,21,27,2103,25,0,80,32,919,0.69,13,11,3,2,8.47,Swedish
+98,Noah Garcia,Ironbridge United,MID,2021-22,30,20,1579,7,12,28,10,1437,0.7,30,23,6,2,5.85,Egyptian
+99,Andre Nguyen,Emerald City FC,MID,2021-22,31,36,2724,0,7,19,18,2387,0.78,34,15,3,2,7.67,Danish
+100,Liam Nguyen,Coastal Rovers,GK,2021-22,23,11,959,0,0,3,0,323,0.78,1,1,4,2,8.52,Czech
+101,Ethan Dubois,Westfield Rangers,FWD,2021-22,31,28,2445,11,14,62,26,991,0.84,4,1,3,1,8.65,German
+102,Sven Patel,Ironbridge United,GK,2021-22,34,21,1684,0,0,0,0,588,0.66,4,2,1,2,9.03,Spanish
+103,Ivan Silva,Emerald City FC,FWD,2021-22,33,30,2700,3,3,79,23,1063,0.79,9,6,1,2,5.79,Italian
+104,Ethan Costa,Golden Gate Athletic,DEF,2021-22,32,31,2267,2,2,4,3,1549,0.8,29,15,3,1,8.52,English
+105,James Costa,Westfield Rangers,DEF,2021-22,29,26,2173,0,1,2,2,1348,0.68,38,27,6,0,8.38,Nigerian
+106,Declan Patel,Harbour Town FC,DEF,2021-22,22,14,1129,1,3,8,3,628,0.7,42,18,3,1,7.89,Italian
+107,Bruno Silva,Coastal Rovers,DEF,2021-22,32,10,737,0,2,3,3,485,0.77,52,29,5,1,7.22,Egyptian
+108,Sven Okafor,Ironbridge United,MID,2021-22,24,23,1876,9,1,45,24,1567,0.88,12,4,6,2,9.0,Danish
+109,Arjun Garcia,Red Valley SC,MID,2021-22,27,14,1137,5,11,23,10,900,0.8,29,20,2,0,5.26,Japanese
+110,Kai Weber,Northern Wolves,DEF,2021-22,23,27,2111,0,1,2,2,1378,0.89,39,20,6,0,8.05,Indian
+111,Tomas Yamamoto,Coastal Rovers,MID,2021-22,23,37,2786,2,1,23,19,2623,0.76,25,14,5,2,6.7,Polish
+112,Sven Jensen,Northern Wolves,FWD,2021-22,20,30,2211,12,9,29,27,1060,0.69,7,6,6,0,6.78,Indian
+113,James Nguyen,Westfield Rangers,DEF,2021-22,36,19,1297,3,0,6,5,900,0.9,38,17,1,2,6.85,Argentinian
+114,Lucas Novak,Golden Gate Athletic,DEF,2021-22,19,28,2273,4,0,8,6,1441,0.77,26,14,3,1,6.3,Japanese
+115,Noah Dubois,Harbour Town FC,MID,2021-22,18,15,1184,3,7,21,18,1048,0.66,20,15,8,0,8.81,Italian
+116,Theo Brown,Harbour Town FC,DEF,2021-22,35,27,2057,2,2,8,4,1392,0.92,51,4,0,0,5.23,Indian
+117,Yusuf Diallo,Westfield Rangers,FWD,2021-22,28,34,2513,7,6,57,51,1198,0.93,0,1,0,2,7.37,Nigerian
+118,Matteo Yamamoto,Emerald City FC,MID,2021-22,25,37,3053,0,9,8,6,2592,0.79,34,19,7,2,9.11,Swedish
+119,Matteo Müller,Westfield Rangers,MID,2021-22,31,32,2646,3,5,10,4,2257,0.94,31,20,1,2,6.58,Danish
+120,Ivan Novak,Emerald City FC,GK,2021-22,24,19,1691,1,0,2,2,570,0.71,1,0,5,2,8.98,Czech
+1,Leon Müller,Coastal Rovers,GK,2022-23,33,31,2445,0,1,1,0,913,0.63,0,0,2,1,7.23,English
+2,Ivan Garcia,Coastal Rovers,MID,2022-23,36,23,1914,3,7,22,4,1649,0.64,12,3,2,2,8.99,French
+3,Bruno Ferrari,Westfield Rangers,DEF,2022-23,31,18,1477,0,7,0,0,907,0.94,35,22,1,1,7.39,Indian
+4,Hassan Martínez,Harbour Town FC,MID,2022-23,36,30,2685,3,7,31,3,2074,0.74,30,17,7,0,9.06,Spanish
+5,Yusuf Johansson,Coastal Rovers,DEF,2022-23,35,37,2852,0,3,0,0,1888,0.66,33,34,0,0,5.6,Nigerian
+6,Yusuf Martínez,Westfield Rangers,FWD,2022-23,27,24,1856,12,5,61,53,839,0.79,1,0,6,1,7.1,Portuguese
+7,Yusuf Andersen,Ironbridge United,MID,2022-23,33,11,835,5,4,37,10,793,0.73,30,13,7,0,8.44,Japanese
+8,Rafael Costa,Red Valley SC,GK,2022-23,24,15,1267,0,0,0,0,436,0.72,3,5,2,1,7.81,Japanese
+9,Oliver Jensen,Ironbridge United,GK,2022-23,27,27,2170,0,0,0,0,785,0.77,2,0,8,0,6.98,Colombian
+10,Ethan Brown,Northern Wolves,MID,2022-23,28,33,2566,5,1,39,31,2360,0.93,14,9,5,1,8.32,Spanish
+11,Kai Rossi,Westfield Rangers,MID,2022-23,37,13,1046,0,2,26,1,965,0.94,12,8,3,0,5.43,Colombian
+12,Lucas Martínez,Emerald City FC,FWD,2022-23,34,26,2116,10,0,55,10,900,0.67,5,2,3,1,6.47,Colombian
+13,Liam Weber,Northern Wolves,FWD,2022-23,27,21,1637,13,0,70,50,735,0.87,13,1,7,0,6.29,French
+14,Diego Ferrari,Northern Wolves,DEF,2022-23,31,19,1536,0,3,7,2,967,0.83,19,15,2,0,7.38,Nigerian
+15,Ivan Costa,Coastal Rovers,MID,2022-23,22,28,2334,8,12,21,19,1950,0.88,25,8,5,1,7.52,Nigerian
+16,Kofi Smith,Northern Wolves,FWD,2022-23,34,14,1135,10,11,46,28,472,0.66,12,2,8,1,6.03,Czech
+17,Andre Rossi,Emerald City FC,FWD,2022-23,29,12,893,10,8,50,41,427,0.71,11,8,8,1,5.1,French
+18,Arjun Nakamura,Golden Gate Athletic,DEF,2022-23,28,10,820,0,3,1,1,551,0.88,43,27,4,0,9.07,Nigerian
+19,Kofi Reyes,Westfield Rangers,FWD,2022-23,33,19,1542,17,3,58,40,629,0.93,0,1,8,1,6.62,English
+20,Noah Andersen,Emerald City FC,FWD,2022-23,30,30,2509,21,3,73,32,990,0.83,3,2,4,2,8.2,Spanish
+21,Declan Ferrari,Coastal Rovers,FWD,2022-23,19,11,837,5,0,51,9,368,0.77,10,5,1,2,9.17,Polish
+22,Leon Silva,Red Valley SC,MID,2022-23,23,22,1826,4,8,15,6,1541,0.87,21,15,2,2,7.48,Brazilian
+23,Theo Kowalski,Westfield Rangers,DEF,2022-23,21,32,2093,3,0,5,3,1637,0.67,25,8,6,2,8.82,Argentinian
+24,Noah Weber,Golden Gate Athletic,FWD,2022-23,32,24,1913,5,3,40,22,866,0.68,0,0,5,2,8.3,German
+25,Matteo Silva,Harbour Town FC,DEF,2022-23,18,12,1056,1,0,3,1,571,0.93,41,13,5,2,5.68,Nigerian
+26,Andre Yamamoto,Red Valley SC,DEF,2022-23,22,22,1677,0,0,10,0,1102,0.71,22,10,6,1,8.79,Nigerian
+27,Matteo Rossi,Ironbridge United,FWD,2022-23,29,10,740,10,3,62,33,331,0.67,7,2,1,0,6.29,Portuguese
+28,Arjun Jensen,Northern Wolves,FWD,2022-23,31,22,1713,17,4,62,23,773,0.82,1,2,6,0,5.06,German
+29,Noah Smith,Harbour Town FC,MID,2022-23,28,22,1814,6,4,26,11,1529,0.82,23,15,6,1,6.9,Italian
+30,Riku Rossi,Harbour Town FC,MID,2022-23,35,30,2459,7,7,35,9,2104,0.71,27,16,2,2,9.41,French
+31,Pedro Smith,Emerald City FC,DEF,2022-23,36,30,2300,2,3,2,2,1540,0.63,29,25,0,1,7.16,Polish
+32,Oliver Okafor,Golden Gate Athletic,GK,2022-23,20,19,1689,1,0,4,4,569,0.65,3,3,2,2,9.37,Swedish
+33,Andre Kim,Emerald City FC,FWD,2022-23,37,24,1936,12,0,40,15,762,0.75,6,6,2,0,6.36,Portuguese
+34,Tomas Johansson,Golden Gate Athletic,MID,2022-23,30,15,1170,5,9,21,12,1005,0.71,32,24,1,0,7.1,Indian
+35,Tomas Okafor,Harbour Town FC,DEF,2022-23,30,30,2193,0,3,5,0,1460,0.63,28,24,8,2,8.36,Portuguese
+36,Kai Ferrari,Northern Wolves,DEF,2022-23,19,16,1284,2,1,2,2,778,0.86,26,26,4,0,7.34,Japanese
+37,Theo Patel,Ironbridge United,FWD,2022-23,30,33,2611,18,5,76,49,1149,0.63,1,0,3,0,5.15,Turkish
+38,Diego Kim,Emerald City FC,MID,2022-23,32,19,1398,5,6,8,6,1289,0.65,28,9,2,2,9.46,Polish
+39,Kai Diallo,Red Valley SC,MID,2022-23,29,19,1511,3,3,27,26,1339,0.9,26,21,1,2,8.63,Argentinian
+40,Liam Diallo,Westfield Rangers,MID,2022-23,19,31,2355,0,12,22,7,2093,0.84,31,17,6,2,7.71,American
+41,Kai Costa,Emerald City FC,FWD,2022-23,28,24,1824,13,7,70,62,867,0.71,10,5,0,2,6.22,South Korean
+42,Theo Santos,Ironbridge United,GK,2022-23,36,34,2851,1,0,1,1,1022,0.79,2,4,8,1,6.86,American
+43,Kai Smith,Westfield Rangers,MID,2022-23,32,25,2134,5,15,22,13,1714,0.67,27,22,8,0,7.63,Polish
+44,Declan Okafor,Coastal Rovers,MID,2022-23,20,32,2545,4,17,27,13,2209,0.82,32,17,6,1,6.16,Brazilian
+45,Matteo Fernandez,Northern Wolves,DEF,2022-23,37,24,2008,0,0,5,1,1212,0.81,47,20,1,1,5.47,English
+46,Andre Bakker,Ironbridge United,MID,2022-23,37,14,1211,8,8,38,35,903,0.93,20,8,1,2,6.87,Nigerian
+47,Arjun Özdemir,Red Valley SC,FWD,2022-23,21,22,1626,14,5,71,49,788,0.84,19,13,0,1,9.27,American
+48,Pedro Tanaka,Golden Gate Athletic,MID,2022-23,34,12,856,5,6,21,20,865,0.72,18,6,3,1,6.74,Danish
+49,Emre Patel,Coastal Rovers,GK,2022-23,26,17,1202,0,0,1,0,497,0.87,2,2,3,0,7.35,Danish
+50,Bruno Müller,Westfield Rangers,DEF,2022-23,29,37,2876,2,3,5,5,1885,0.77,58,24,6,0,8.38,Danish
+51,Pedro Jensen,Red Valley SC,FWD,2022-23,26,13,1034,8,0,59,56,458,0.9,3,2,5,0,5.97,Egyptian
+52,Ivan Rossi,Coastal Rovers,FWD,2022-23,33,25,2250,14,7,48,45,922,0.69,3,2,3,2,5.9,French
+53,Pedro Rossi,Westfield Rangers,FWD,2022-23,37,31,2433,19,2,48,25,1100,0.63,0,0,2,2,8.28,Colombian
+54,Kofi Dubois,Westfield Rangers,DEF,2022-23,33,10,748,1,3,1,1,537,0.73,43,28,2,1,9.04,Italian
+55,Ivan Smith,Ironbridge United,DEF,2022-23,36,27,2054,1,2,6,6,1378,0.68,38,7,5,2,5.15,Czech
+56,Arjun Weber,Emerald City FC,FWD,2022-23,36,36,2994,17,6,21,17,1222,0.69,5,0,7,1,6.7,Brazilian
+57,Emre Andersen,Red Valley SC,FWD,2022-23,19,18,1465,15,6,75,65,698,0.81,0,0,6,0,8.28,Brazilian
+58,James Weber,Red Valley SC,FWD,2022-23,23,36,3090,18,15,57,29,1245,0.63,6,2,6,0,7.47,Indian
+59,Diego Costa,Northern Wolves,MID,2022-23,32,31,2404,13,6,43,26,2182,0.89,27,25,0,2,7.99,Colombian
+60,Diego Smith,Golden Gate Athletic,DEF,2022-23,29,35,2750,2,6,5,4,1765,0.73,51,31,7,1,5.67,Polish
+61,Arjun Tanaka,Harbour Town FC,FWD,2022-23,19,32,2795,13,9,49,45,1073,0.67,8,4,2,2,9.44,American
+62,Declan Costa,Emerald City FC,MID,2022-23,19,17,1449,8,12,26,8,1098,0.62,31,12,8,0,5.85,Spanish
+63,Liam Kim,Golden Gate Athletic,MID,2022-23,28,24,2010,8,8,28,10,1689,0.89,8,5,6,0,6.48,German
+64,Arjun Ferrari,Northern Wolves,GK,2022-23,30,24,2108,0,0,1,1,781,0.66,4,2,1,0,9.19,Portuguese
+65,Kofi Fernandez,Golden Gate Athletic,FWD,2022-23,21,31,2443,11,11,56,16,1012,0.64,5,3,2,2,8.73,Spanish
+66,Carlos Nakamura,Ironbridge United,GK,2022-23,21,34,2459,0,1,0,0,981,0.84,4,2,6,1,5.72,German
+67,Kofi Bakker,Emerald City FC,MID,2022-23,20,37,2653,6,2,17,6,2582,0.81,30,15,0,1,7.89,Italian
+68,Oliver Patel,Westfield Rangers,MID,2022-23,29,30,2295,2,0,24,21,1993,0.84,18,18,4,0,8.3,Colombian
+69,Rafael Özdemir,Northern Wolves,FWD,2022-23,18,16,1369,20,2,61,50,490,0.86,7,8,4,0,5.64,Swedish
+70,Sven Costa,Red Valley SC,FWD,2022-23,29,11,942,25,3,75,75,339,0.73,3,2,2,2,8.61,German
+71,Finn Novak,Northern Wolves,FWD,2022-23,27,31,2328,14,9,62,59,1102,0.8,12,10,7,2,5.15,Portuguese
+72,Ethan Jensen,Westfield Rangers,MID,2022-23,27,23,1787,8,9,24,22,1634,0.93,22,14,0,2,6.89,Portuguese
+73,Arjun Nakamura,Golden Gate Athletic,FWD,2022-23,31,22,1557,1,0,31,12,734,0.8,4,2,1,1,6.66,Portuguese
+74,Nils Müller,Harbour Town FC,DEF,2022-23,28,25,2002,0,1,5,0,1217,0.83,20,13,8,1,5.07,Colombian
+75,Lucas Ferrari,Ironbridge United,MID,2022-23,32,29,2583,1,7,21,7,2025,0.79,32,29,0,2,7.37,Danish
+76,Emre Andersen,Ironbridge United,MID,2022-23,33,16,1280,8,3,34,33,1169,0.78,24,2,2,0,8.12,Turkish
+77,Matteo Özdemir,Golden Gate Athletic,FWD,2022-23,36,17,1407,13,9,70,60,623,0.87,10,9,5,0,5.19,Japanese
+78,Kofi Özdemir,Harbour Town FC,DEF,2022-23,33,21,1859,1,4,5,4,1050,0.89,46,10,5,0,8.87,Portuguese
+79,Hassan Jensen,Harbour Town FC,FWD,2022-23,28,29,2289,1,13,61,22,1004,0.73,5,5,0,0,8.45,French
+80,Yusuf Yamamoto,Emerald City FC,FWD,2022-23,27,21,1695,11,9,48,29,753,0.93,10,7,0,2,7.06,South Korean
+81,Oliver Garcia,Golden Gate Athletic,DEF,2022-23,22,28,2234,0,1,10,8,1418,0.74,39,20,2,1,8.48,Egyptian
+82,Tomas Nguyen,Emerald City FC,MID,2022-23,29,23,1796,0,9,31,17,1626,0.91,36,35,7,1,7.57,Egyptian
+83,Noah Reyes,Coastal Rovers,MID,2022-23,20,36,2916,7,0,31,23,2549,0.78,26,15,2,2,6.93,Egyptian
+84,Sven Yamamoto,Harbour Town FC,GK,2022-23,36,24,1804,1,1,1,1,743,0.87,3,3,2,0,8.97,South Korean
+85,Diego Tanaka,Coastal Rovers,MID,2022-23,34,19,1549,7,3,44,34,1351,0.89,12,4,8,2,6.77,Argentinian
+86,Hassan Yamamoto,Harbour Town FC,DEF,2022-23,20,21,1789,0,5,4,2,1057,0.7,31,11,3,2,5.32,Spanish
+87,Tomas Okafor,Ironbridge United,FWD,2022-23,33,30,2150,17,3,61,42,994,0.81,8,7,7,2,8.36,Portuguese
+88,Diego Nakamura,Northern Wolves,DEF,2022-23,20,11,842,4,2,6,5,544,0.86,55,23,1,0,7.3,Polish
+89,Emre Martínez,Coastal Rovers,MID,2022-23,32,14,1116,5,11,35,34,965,0.75,30,14,6,1,6.75,Japanese
+90,Yusuf Smith,Red Valley SC,FWD,2022-23,19,30,2256,21,4,80,69,1035,0.83,20,7,2,0,5.63,Polish
+91,Ivan Silva,Harbour Town FC,MID,2022-23,27,10,759,5,4,27,24,657,0.79,29,11,6,1,5.76,Turkish
+92,Marco Santos,Red Valley SC,DEF,2022-23,31,17,1324,1,1,4,3,849,0.72,47,43,4,0,7.07,American
+93,Ethan Kowalski,Westfield Rangers,DEF,2022-23,32,32,2618,4,3,4,4,1616,0.68,38,31,1,1,5.93,Portuguese
+94,Matteo Kim,Harbour Town FC,MID,2022-23,26,31,2502,0,5,30,1,2112,0.65,24,12,6,2,8.14,English
+95,Ethan Hassan,Harbour Town FC,MID,2022-23,36,34,2804,6,8,19,14,2330,0.64,34,22,0,0,8.79,South Korean
+96,Oliver Dubois,Red Valley SC,FWD,2022-23,33,28,1839,14,5,63,21,978,0.74,7,4,0,0,5.61,Indian
+97,Hassan Yamamoto,Coastal Rovers,FWD,2022-23,22,17,1448,5,6,74,26,600,0.85,6,2,1,1,8.76,Swedish
+98,Noah Garcia,Ironbridge United,MID,2022-23,31,20,1474,0,1,34,2,1399,0.74,17,9,5,1,7.22,Egyptian
+99,Andre Nguyen,Emerald City FC,MID,2022-23,32,37,2802,8,3,14,12,2642,0.68,21,12,2,0,8.12,Danish
+100,Liam Nguyen,Coastal Rovers,GK,2022-23,24,34,2787,0,0,1,1,991,0.92,3,3,5,1,9.3,Czech
+101,Ethan Dubois,Westfield Rangers,FWD,2022-23,32,11,791,9,9,51,44,330,0.69,12,10,7,0,8.08,German
+102,Sven Patel,Ironbridge United,GK,2022-23,35,33,2600,0,0,4,3,979,0.76,0,2,0,2,7.65,Spanish
+103,Ivan Silva,Emerald City FC,FWD,2022-23,34,15,1280,14,5,64,45,508,0.89,15,9,3,0,7.97,Italian
+104,Ethan Costa,Golden Gate Athletic,DEF,2022-23,33,36,3078,2,3,5,2,1777,0.76,50,40,2,1,9.19,English
+105,James Costa,Westfield Rangers,DEF,2022-23,30,25,2014,4,0,9,6,1229,0.69,36,18,2,0,5.0,Nigerian
+106,Declan Patel,Harbour Town FC,DEF,2022-23,23,24,1856,0,4,6,3,1145,0.63,47,17,4,2,5.66,Italian
+107,Bruno Silva,Coastal Rovers,DEF,2022-23,33,13,1160,5,0,16,13,685,0.69,30,21,0,0,9.19,Egyptian
+108,Sven Okafor,Ironbridge United,MID,2022-23,25,20,1623,10,6,29,15,1426,0.92,20,7,8,2,7.4,Danish
+109,Arjun Garcia,Red Valley SC,MID,2022-23,28,14,1175,9,5,40,17,991,0.85,38,22,7,2,8.03,Japanese
+110,Kai Weber,Northern Wolves,DEF,2022-23,24,14,1058,0,3,2,1,661,0.82,45,42,3,2,8.0,Indian
+111,Tomas Yamamoto,Coastal Rovers,MID,2022-23,24,34,2407,2,2,7,5,2279,0.69,21,8,0,1,6.88,Polish
+112,Sven Jensen,Northern Wolves,FWD,2022-23,21,17,1436,17,10,67,64,610,0.67,6,3,1,0,5.71,Indian
+113,James Nguyen,Westfield Rangers,DEF,2022-23,37,19,1511,0,1,0,0,985,0.7,31,24,7,0,7.58,Argentinian
+114,Lucas Novak,Golden Gate Athletic,DEF,2022-23,20,37,2861,0,2,7,1,1851,0.89,45,22,1,2,8.94,Japanese
+115,Noah Dubois,Harbour Town FC,MID,2022-23,19,14,1145,13,12,48,35,934,0.64,19,12,1,1,8.56,Italian
+116,Theo Brown,Harbour Town FC,DEF,2022-23,36,35,2957,3,3,3,3,1739,0.69,49,42,7,1,7.67,Indian
+117,Yusuf Diallo,Westfield Rangers,FWD,2022-23,29,33,2188,1,11,45,30,1204,0.65,8,4,5,0,8.43,Nigerian
+118,Matteo Yamamoto,Emerald City FC,MID,2022-23,26,34,2992,7,9,36,14,2414,0.7,22,0,0,1,7.57,Swedish
+119,Matteo Müller,Westfield Rangers,MID,2022-23,32,23,1901,5,7,41,5,1609,0.88,19,12,5,1,9.43,Danish
+120,Ivan Novak,Emerald City FC,GK,2022-23,25,16,1225,2,0,4,3,479,0.93,2,2,5,1,9.39,Czech
+1,Leon Müller,Coastal Rovers,GK,2023-24,34,30,2282,0,0,3,0,937,0.83,3,0,7,2,7.78,English
+2,Ivan Garcia,Coastal Rovers,MID,2023-24,37,23,1864,11,7,42,36,1683,0.91,44,22,3,2,5.82,French
+3,Bruno Ferrari,Westfield Rangers,DEF,2023-24,32,21,1890,3,1,11,3,1121,0.91,37,18,7,0,7.74,Indian
+4,Hassan Martínez,Harbour Town FC,MID,2023-24,37,27,2123,8,15,25,13,1895,0.72,20,9,7,2,9.14,Spanish
+5,Yusuf Johansson,Coastal Rovers,DEF,2023-24,36,25,1744,0,5,5,1,1244,0.71,35,27,0,0,9.32,Nigerian
+6,Yusuf Martínez,Westfield Rangers,FWD,2023-24,28,15,1220,11,7,43,34,558,0.93,9,5,5,1,7.95,Portuguese
+7,Yusuf Andersen,Ironbridge United,MID,2023-24,34,29,2503,5,2,21,18,2013,0.67,29,23,2,2,5.86,Japanese
+8,Rafael Costa,Red Valley SC,GK,2023-24,25,22,1657,0,0,1,1,649,0.92,1,0,8,0,8.42,Japanese
+9,Oliver Jensen,Ironbridge United,GK,2023-24,28,30,2700,0,0,1,0,910,0.95,0,1,2,1,8.31,Colombian
+10,Ethan Brown,Northern Wolves,MID,2023-24,29,27,2264,10,3,30,13,1833,0.66,21,7,5,0,5.26,Spanish
+11,Kai Rossi,Westfield Rangers,MID,2023-24,38,11,854,8,1,21,21,814,0.82,20,17,1,0,5.34,Colombian
+12,Lucas Martínez,Emerald City FC,FWD,2023-24,35,15,1115,20,2,80,54,495,0.63,12,11,8,2,7.28,Colombian
+13,Liam Weber,Northern Wolves,FWD,2023-24,28,10,838,13,0,51,14,386,0.86,12,8,0,1,5.88,French
+14,Diego Ferrari,Northern Wolves,DEF,2023-24,32,18,1426,0,0,5,4,925,0.65,42,30,3,1,9.15,Nigerian
+15,Ivan Costa,Coastal Rovers,MID,2023-24,23,31,2367,6,9,21,7,2142,0.66,16,15,0,0,8.56,Nigerian
+16,Kofi Smith,Northern Wolves,FWD,2023-24,35,29,2606,11,17,58,50,1003,0.71,12,7,2,0,5.63,Czech
+17,Andre Rossi,Emerald City FC,FWD,2023-24,30,29,2359,7,7,55,23,992,0.66,7,1,4,1,5.6,French
+18,Arjun Nakamura,Golden Gate Athletic,DEF,2023-24,29,14,1158,2,3,4,3,668,0.92,31,10,8,2,6.55,Nigerian
+19,Kofi Reyes,Westfield Rangers,FWD,2023-24,34,25,2122,12,8,36,24,880,0.78,10,3,4,0,6.39,English
+20,Noah Andersen,Emerald City FC,FWD,2023-24,31,12,994,16,0,51,26,409,0.73,1,0,0,2,9.28,Spanish
+21,Declan Ferrari,Coastal Rovers,FWD,2023-24,20,31,2462,18,0,65,51,1072,0.89,14,7,6,0,5.47,Polish
+22,Leon Silva,Red Valley SC,MID,2023-24,24,19,1487,7,7,35,11,1332,0.83,31,11,1,0,6.59,Brazilian
+23,Theo Kowalski,Westfield Rangers,DEF,2023-24,22,22,1615,3,6,10,3,1103,0.78,22,15,8,0,6.44,Argentinian
+24,Noah Weber,Golden Gate Athletic,FWD,2023-24,33,36,2869,16,0,59,36,1228,0.93,6,5,5,2,6.31,German
+25,Matteo Silva,Harbour Town FC,DEF,2023-24,19,27,2283,0,4,1,1,1359,0.76,43,18,2,1,8.81,Nigerian
+26,Andre Yamamoto,Red Valley SC,DEF,2023-24,23,26,2104,3,2,3,3,1335,0.71,43,20,4,1,6.58,Nigerian
+27,Matteo Rossi,Ironbridge United,FWD,2023-24,30,19,1530,5,6,79,44,650,0.67,0,0,4,2,8.58,Portuguese
+28,Arjun Jensen,Northern Wolves,FWD,2023-24,32,13,1019,11,3,32,23,421,0.73,0,0,5,1,7.16,German
+29,Noah Smith,Harbour Town FC,MID,2023-24,29,25,1930,10,3,38,29,1689,0.72,22,8,2,1,5.61,Italian
+30,Riku Rossi,Harbour Town FC,MID,2023-24,36,20,1655,3,8,27,14,1397,0.76,26,19,4,1,9.29,French
+31,Pedro Smith,Emerald City FC,DEF,2023-24,37,10,900,2,3,8,4,464,0.8,35,26,1,0,5.62,Polish
+32,Oliver Okafor,Golden Gate Athletic,GK,2023-24,21,21,1771,0,0,2,2,649,0.66,1,1,7,0,8.75,Swedish
+33,Andre Kim,Emerald City FC,FWD,2023-24,38,22,1824,12,2,58,36,771,0.79,0,0,8,0,7.3,Portuguese
+34,Tomas Johansson,Golden Gate Athletic,MID,2023-24,31,25,2061,1,0,18,1,1784,0.9,31,8,2,1,6.81,Indian
+35,Tomas Okafor,Harbour Town FC,DEF,2023-24,31,19,1571,0,2,5,0,980,0.81,37,0,4,0,5.34,Portuguese
+36,Kai Ferrari,Northern Wolves,DEF,2023-24,20,14,1049,1,2,1,1,708,0.68,45,14,5,0,6.52,Japanese
+37,Theo Patel,Ironbridge United,FWD,2023-24,31,34,2772,13,4,40,14,1172,0.62,5,4,6,1,9.22,Turkish
+38,Diego Kim,Emerald City FC,MID,2023-24,33,31,2437,6,7,41,22,2167,0.72,25,12,7,0,6.36,Polish
+39,Kai Diallo,Red Valley SC,MID,2023-24,30,27,2015,0,3,12,10,1917,0.8,23,3,4,1,9.19,Argentinian
+40,Liam Diallo,Westfield Rangers,MID,2023-24,20,35,2944,2,10,10,10,2482,0.87,22,22,5,2,7.24,American
+41,Kai Costa,Emerald City FC,FWD,2023-24,29,15,1084,12,0,32,19,514,0.86,8,5,1,1,6.86,South Korean
+42,Theo Santos,Ironbridge United,GK,2023-24,37,33,2843,0,0,2,0,1058,0.89,3,3,5,1,8.18,American
+43,Kai Smith,Westfield Rangers,MID,2023-24,33,36,2591,11,5,32,31,2544,0.8,26,14,5,1,5.49,Polish
+44,Declan Okafor,Coastal Rovers,MID,2023-24,21,34,2728,5,5,34,32,2361,0.78,21,12,1,0,5.74,Brazilian
+45,Matteo Fernandez,Northern Wolves,DEF,2023-24,38,23,2063,2,5,3,3,1116,0.91,48,30,1,1,6.49,English
+46,Andre Bakker,Ironbridge United,MID,2023-24,38,16,1170,7,14,38,14,1184,0.8,13,7,7,0,8.6,Nigerian
+47,Arjun Özdemir,Red Valley SC,FWD,2023-24,22,18,1322,16,0,63,41,631,0.92,12,11,6,0,8.87,American
+48,Pedro Tanaka,Golden Gate Athletic,MID,2023-24,35,32,2733,8,7,29,29,2185,0.77,23,15,1,0,6.16,Danish
+49,Emre Patel,Coastal Rovers,GK,2023-24,27,32,2721,1,0,3,2,992,0.92,0,0,3,0,8.51,Danish
+50,Bruno Müller,Westfield Rangers,DEF,2023-24,30,23,1891,2,0,8,5,1127,0.95,44,23,0,2,5.59,Danish
+51,Pedro Jensen,Red Valley SC,FWD,2023-24,27,18,1441,16,2,67,42,582,0.69,16,11,1,1,7.77,Egyptian
+52,Ivan Rossi,Coastal Rovers,FWD,2023-24,34,19,1509,21,4,80,42,679,0.94,13,7,1,2,8.76,French
+53,Pedro Rossi,Westfield Rangers,FWD,2023-24,38,22,1779,14,4,70,66,751,0.66,13,5,5,2,7.65,Colombian
+54,Kofi Dubois,Westfield Rangers,DEF,2023-24,34,21,1556,3,0,10,7,1042,0.63,46,19,4,1,8.4,Italian
+55,Ivan Smith,Ironbridge United,DEF,2023-24,37,11,811,1,5,10,8,507,0.72,49,37,2,2,5.71,Czech
+56,Arjun Weber,Emerald City FC,FWD,2023-24,37,12,956,8,0,63,34,437,0.7,11,13,8,1,6.71,Brazilian
+57,Emre Andersen,Red Valley SC,FWD,2023-24,20,13,1060,24,1,77,25,439,0.91,15,16,3,0,5.24,Brazilian
+58,James Weber,Red Valley SC,FWD,2023-24,24,17,1530,9,3,32,11,624,0.73,1,2,1,1,5.18,Indian
+59,Diego Costa,Northern Wolves,MID,2023-24,33,20,1435,11,9,31,31,1366,0.64,21,3,3,1,8.08,Colombian
+60,Diego Smith,Golden Gate Athletic,DEF,2023-24,30,26,1989,2,1,7,6,1268,0.91,39,41,3,1,8.83,Polish
+61,Arjun Tanaka,Harbour Town FC,FWD,2023-24,20,31,2670,16,8,80,54,1081,0.79,2,1,4,2,8.6,American
+62,Declan Costa,Emerald City FC,MID,2023-24,20,32,2345,0,13,19,10,2228,0.81,36,18,8,2,6.15,Spanish
+63,Liam Kim,Golden Gate Athletic,MID,2023-24,29,37,3224,6,9,32,18,2606,0.79,40,16,1,0,8.94,German
+64,Arjun Ferrari,Northern Wolves,GK,2023-24,31,17,1394,0,0,1,1,510,0.77,0,0,4,0,9.18,Portuguese
+65,Kofi Fernandez,Golden Gate Athletic,FWD,2023-24,22,17,1408,0,0,80,25,613,0.88,8,3,2,0,7.84,Spanish
+66,Carlos Nakamura,Ironbridge United,GK,2023-24,22,28,2177,0,0,0,0,850,0.78,5,4,7,2,9.33,German
+67,Kofi Bakker,Emerald City FC,MID,2023-24,21,28,2420,2,3,21,3,1912,0.94,25,10,5,2,6.0,Italian
+68,Oliver Patel,Westfield Rangers,MID,2023-24,30,29,2286,4,8,23,10,2017,0.88,30,17,1,0,5.93,Colombian
+69,Rafael Özdemir,Northern Wolves,FWD,2023-24,19,12,1006,15,7,69,32,421,0.93,13,11,7,0,7.54,Swedish
+70,Sven Costa,Red Valley SC,FWD,2023-24,30,16,1331,14,6,53,16,581,0.9,6,4,0,1,5.14,German
+71,Finn Novak,Northern Wolves,FWD,2023-24,28,25,1916,9,0,48,37,824,0.78,22,11,5,1,6.31,Portuguese
+72,Ethan Jensen,Westfield Rangers,MID,2023-24,28,12,1038,4,3,23,12,874,0.83,21,12,3,2,8.17,Portuguese
+73,Arjun Nakamura,Golden Gate Athletic,FWD,2023-24,32,24,1867,17,6,76,31,838,0.82,13,9,1,1,8.18,Portuguese
+74,Nils Müller,Harbour Town FC,DEF,2023-24,29,22,1612,2,3,9,2,1066,0.73,45,26,1,1,7.1,Colombian
+75,Lucas Ferrari,Ironbridge United,MID,2023-24,33,13,979,10,13,20,14,895,0.62,39,19,7,1,8.23,Danish
+76,Emre Andersen,Ironbridge United,MID,2023-24,34,24,2007,0,5,7,7,1633,0.93,25,13,7,1,7.32,Turkish
+77,Matteo Özdemir,Golden Gate Athletic,FWD,2023-24,37,29,2463,0,2,52,27,1012,0.68,9,5,6,2,7.39,Japanese
+78,Kofi Özdemir,Harbour Town FC,DEF,2023-24,34,12,935,0,2,5,2,656,0.79,50,44,2,1,6.78,Portuguese
+79,Hassan Jensen,Harbour Town FC,FWD,2023-24,29,14,1102,17,6,71,33,456,0.91,19,11,0,0,7.52,French
+80,Yusuf Yamamoto,Emerald City FC,FWD,2023-24,28,16,1326,11,4,58,36,519,0.79,9,11,0,0,6.54,South Korean
+81,Oliver Garcia,Golden Gate Athletic,DEF,2023-24,23,18,1620,3,0,9,7,873,0.82,37,23,2,0,5.41,Egyptian
+82,Tomas Nguyen,Emerald City FC,MID,2023-24,30,34,2651,7,1,33,30,2327,0.64,11,3,1,2,5.48,Egyptian
+83,Noah Reyes,Coastal Rovers,MID,2023-24,21,11,911,5,2,21,11,715,0.65,28,9,0,0,9.29,Egyptian
+84,Sven Yamamoto,Harbour Town FC,GK,2023-24,37,26,2016,1,0,3,1,762,0.67,0,0,3,0,6.98,South Korean
+85,Diego Tanaka,Coastal Rovers,MID,2023-24,35,11,802,0,2,25,15,698,0.95,39,18,4,1,5.36,Argentinian
+86,Hassan Yamamoto,Harbour Town FC,DEF,2023-24,21,33,2389,1,0,12,4,1593,0.68,30,8,8,2,6.08,Spanish
+87,Tomas Okafor,Ironbridge United,FWD,2023-24,34,18,1321,0,4,45,24,610,0.71,10,7,4,0,7.54,Portuguese
+88,Diego Nakamura,Northern Wolves,DEF,2023-24,21,17,1361,3,4,3,3,798,0.68,29,23,4,2,9.26,Polish
+89,Emre Martínez,Coastal Rovers,MID,2023-24,33,32,2623,6,11,30,15,2307,0.83,23,9,4,1,8.81,Japanese
+90,Yusuf Smith,Red Valley SC,FWD,2023-24,20,18,1435,20,0,69,54,608,0.78,8,4,1,1,6.65,Polish
+91,Ivan Silva,Harbour Town FC,MID,2023-24,28,17,1190,2,10,17,9,1249,0.9,29,14,4,0,8.6,Turkish
+92,Marco Santos,Red Valley SC,DEF,2023-24,32,21,1576,0,1,1,0,1058,0.71,57,26,1,2,6.77,American
+93,Ethan Kowalski,Westfield Rangers,DEF,2023-24,33,15,1181,2,4,7,6,737,0.81,32,15,3,0,6.23,Portuguese
+94,Matteo Kim,Harbour Town FC,MID,2023-24,27,20,1720,1,7,13,4,1369,0.64,20,17,4,2,8.76,English
+95,Ethan Hassan,Harbour Town FC,MID,2023-24,37,31,2286,6,10,28,9,2234,0.92,22,16,5,1,6.38,South Korean
+96,Oliver Dubois,Red Valley SC,FWD,2023-24,34,25,2045,14,8,80,53,872,0.73,13,7,8,1,8.46,Indian
+97,Hassan Yamamoto,Coastal Rovers,FWD,2023-24,23,24,1963,4,0,41,23,821,0.88,7,5,4,1,5.69,Swedish
+98,Noah Garcia,Ironbridge United,MID,2023-24,32,37,3069,7,3,28,21,2589,0.76,24,15,6,1,7.26,Egyptian
+99,Andre Nguyen,Emerald City FC,MID,2023-24,33,10,728,1,5,20,1,692,0.75,32,18,4,0,8.11,Danish
+100,Liam Nguyen,Coastal Rovers,GK,2023-24,25,10,829,0,1,2,2,298,0.92,4,1,5,0,7.36,Czech
+101,Ethan Dubois,Westfield Rangers,FWD,2023-24,33,15,1231,7,5,56,8,518,0.75,7,8,2,2,8.18,German
+102,Sven Patel,Ironbridge United,GK,2023-24,36,36,2410,0,0,0,0,1107,0.95,2,1,1,2,5.57,Spanish
+103,Ivan Silva,Emerald City FC,FWD,2023-24,35,34,2428,9,8,80,59,1192,0.64,2,2,3,2,7.49,Italian
+104,Ethan Costa,Golden Gate Athletic,DEF,2023-24,34,26,2137,1,3,6,6,1272,0.65,36,28,7,0,7.76,English
+105,James Costa,Westfield Rangers,DEF,2023-24,31,10,801,2,3,4,4,520,0.85,34,29,2,0,7.55,Nigerian
+106,Declan Patel,Harbour Town FC,DEF,2023-24,24,12,921,2,0,7,3,627,0.62,50,27,7,0,8.93,Italian
+107,Bruno Silva,Coastal Rovers,DEF,2023-24,34,29,2209,2,2,3,3,1428,0.86,42,16,5,0,6.73,Egyptian
+108,Sven Okafor,Ironbridge United,MID,2023-24,26,32,2526,6,4,37,33,2157,0.79,41,24,4,2,5.09,Danish
+109,Arjun Garcia,Red Valley SC,MID,2023-24,29,37,3030,2,3,18,5,2606,0.9,33,23,5,1,9.3,Japanese
+110,Kai Weber,Northern Wolves,DEF,2023-24,25,35,2565,1,3,2,1,1713,0.79,45,38,4,2,8.41,Indian
+111,Tomas Yamamoto,Coastal Rovers,MID,2023-24,25,24,1814,2,2,18,18,1698,0.75,8,3,5,2,5.03,Polish
+112,Sven Jensen,Northern Wolves,FWD,2023-24,22,37,3330,12,7,68,32,1284,0.69,19,16,1,0,5.29,Indian
+113,James Nguyen,Westfield Rangers,DEF,2023-24,38,15,1296,0,3,0,0,677,0.8,32,4,0,0,9.49,Argentinian
+114,Lucas Novak,Golden Gate Athletic,DEF,2023-24,21,29,2521,0,2,7,1,1438,0.83,43,31,3,0,8.69,Japanese
+115,Noah Dubois,Harbour Town FC,MID,2023-24,20,17,1364,11,11,35,11,1173,0.89,29,40,7,2,5.91,Italian
+116,Theo Brown,Harbour Town FC,DEF,2023-24,37,11,903,2,6,4,2,592,0.93,30,28,8,0,5.32,Indian
+117,Yusuf Diallo,Westfield Rangers,FWD,2023-24,30,33,2674,13,5,73,67,1130,0.86,4,3,1,1,7.34,Nigerian
+118,Matteo Yamamoto,Emerald City FC,MID,2023-24,27,34,2805,2,12,20,13,2402,0.85,19,16,0,2,8.34,Swedish
+119,Matteo Müller,Westfield Rangers,MID,2023-24,33,23,2014,4,7,33,33,1569,0.78,20,10,6,2,6.28,Danish
+120,Ivan Novak,Emerald City FC,GK,2023-24,26,22,1887,0,0,0,0,669,0.86,3,1,2,0,7.35,Czech
